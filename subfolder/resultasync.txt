@@ -1,0 +1,1 @@
+the result is : hello this is the first text file,this is second text file
